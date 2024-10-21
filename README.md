@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daisy-gryboski
-- 👀 I’m interested in entry-level positions or an internship for the Summer of 2024. 
+- 👀 I’m interested in entry-level positions or an internship for the Summer of 2025. 
 - 🌱 I’m currently learning java, python, and c through courses such as Data Structures, Software Development, Systems Programming, and work outside of the classroom.
 - 📫 How to reach me: daisygryboski@uga.edu
 
